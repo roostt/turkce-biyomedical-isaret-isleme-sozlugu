@@ -1,0 +1,143 @@
+motor recovery:  motor iyileşme 
+physiological evaluation: fizyolojik ölçümler
+neuroscience: sinirbilim
+brain-computer interface: beyin bilgisayar arayüzü
+time-scale analysis:  zaman-ölçek analizi
+time-frequency analysis:  zaman-frekans analizi
+biomedical signals: biyomedikal sinyaller/işaretler
+non-stationary biomedical signals: durağan-olmayan biyomedikal sinyaller
+spectral decomposition: spektral ayrılma
+visual perception: görsel algılama 
+physiology :fizyoloji
+neurology: nöroloji
+psychology: psikoloji 
+supervised learning:  gözetimli/denetimli öğrenme
+hidden markov modeli : saklı markov modeli 
+poor signal to noise ratio : düşük sinyal-gürültü oranı
+temporal resolution : zamansal çözünürlük
+curse of dimensionality:  boyutluluk belası
+computation complexity: hesaplama karmaşıklığı
+oscillatory: salınım/osilasyon
+periodogram :periodogram
+statistical parameters : istatiksel/istatistiksel parametreler
+noninvasive : noninvaziv/müdahalesiz
+mu rhythm: mu ritmi
+beta rhythm : beta ritmi
+trade-off: ödünleşim 
+scalp: saçlı deri
+spatial: uzamsal, uzaysal
+volume conduction: hacimsel iletkenlik, hacim iletimi
+α-rhythm : alfa ritmi
+visual cortex: görsel korteks
+muscle artifacts: kas artefaktları/artifaktları
+channel reduction: kanal azaltma
+common spatial patterns: ortak uzamsal örüntüler
+sparse spatial filter: seyrek uzamsal filtreler
+common sparse spectral spatial patterns: ortak seyrek spektral uzamsal örüntüler
+multiclass common spatial patterns: çok sınıflı ortak uzamsal örüntüler
+stationary common spatial patterns: durağan ortak uzamsal örüntüler
+laplacian filtering: laplace süzgeçleme/filtreleme
+principal component analysis: temel bileşenler analizi
+bipolar montage: bipolar montaj
+overfitting: aşırı uyumluluk
+wavelet packet decomposition: dalgacık paket ayrıştırması
+2d wavelet transform: iki boyutlu (2b) dalgacık dönüşümü
+short-time fourier transform: kısa zamanlı fourier dönüşümü
+redundant frequency information : gereğinden fazla frekans bilgisi
+high computational complexity: yüksek hesaplama karmaşıklığı
+cross-correlations: çapraz korelasyon
+observation interval: gözlem aralığı
+morlet wavelet decomposition: morlet dalgacık ayrıştırması
+singular value decomposition: tekil değer ayrıştırma
+temporal localization: zamansal konumlandırılma
+event-related desynchronization (ERD) :  olayla ilişkili desenkronizasyon 
+event-related synchronization (ERS):  olayla ilişkili senkronizasyon 
+attenuation: güç düşümü
+enhancement: güç artımı
+hilbert-huang transform (HHT): hilbert-huang dönüşümü
+short time fourier transform (STFT): kısa zamanlı fourier dönüşümü
+linear discriminant analysis (LDA): doğrusal ayırtaç analizi
+support vector machine (SVM): destek vektör makineleri
+bayesian classifier: bayes sınıflandırıcıları
+doğrusal regresyon: linear regression
+thresholding: eşikleme
+neural networks: yapay sinir ağları
+local field potentials (LFPS): yerel alan potansiyelleri
+electrocorticography (ECog): elektrokortikografi 
+steady state visual evoked potential (SSVEP): durağan hal görsel uyarılmış potansiyel
+pattern: örüntü
+the bias–variance trade off: yanlılık değişinti arası ödünleşim veya bias-varyans ikilemi
+linear classifiers : doğrusal sınıflandırıcılar
+linear discriminant analysis: doğrusal ayırtaç analizi veya doğrusal diskriminant analiz
+good generalization properties: iyi bir genelleme özelliği
+overtraining: aşırı öğrenme
+hidden markov model (HMM): saklı markov modeli
+neurophysiological markers: nörofizyolojik belirteç
+riemannian approaches: riemann yaklaşımları
+subspace: alt uzay
+off-line: çevrimdışı
+adaptive neuro fuzzy: adaptif bulanık mantık
+adaptive: uyarlanabilir/adaptif
+autoregressive : özbağlanımlı
+amplitude modulation: genlik modülasyon
+mean absolute value: ortalama mutlak değer
+willison amplitude: willison genliği
+quantum behaved particle swarm optimization: kuantum davranışlı parçacık sürüsü optimizasyonu
+fetaure selection: özellik seçimi
+adaptive autoregressive model: uyarlanabilir/uyarlamalı özbağlanımlı model
+fuzzy approximate entropy: bulanık yaklaşım entropi
+common sparse spectral spatial patterns: ortak seyrek spektral uzaysal örüntüler yöntemi
+subject attention: deneğin dikkati
+subject fatigue: kişinin yorgunluğu
+disease progression: hastalığın ilerlemesi
+electrode impedances: elektrot empedansı
+amplifier noise: yükselteç gürültüsü
+environmental noise: çevresel gürültü
+adaptive neuro fuzzy inference system : uyarlamalı sinirsel bulanık denetim sistemi
+adaptive and incremental linear discriminant analysis : uyarlanabilir ve artırımlı doğrusal ayırtaç analizi
+extreme learning machine : aşırı öğrenme makinesi
+hyperparameter:  hiper parametre
+multilayer perceptron : çok katmanlı perseptron
+backpropagation algorithm: geriye yayılım algoritması
+learning vector quantization : öğrenmeli vektör kuantalama
+fuzzy neural networks: bulanık sinir ağları
+convolutional neural networks: konvolüsyonel sinir ağları
+deep boltzmann machines: derin boltzmann makineleri
+deep belief networks: derin inanç ağları
+generative adversarial networks: çekişmeli üretici ağlar
+recurrent neural networks: yinelemeli sinir ağları
+deep reinforcement learning: derin pekiştirmeli öğrenme
+deep autoencoders: derin oto-kodlayıcılar
+sequential minimal optimization : ardışık minimal optimizasyon
+irrelevant and redundant features: ilgisiz ve fazla özellikler
+maximum likelihood method:  en çok olabilirlik yöntemi
+feature map: özellik haritası
+time-varying: zamanla değişen
+long short-term memory (LSTM): uzun-kısa süreli bellek
+transfer learning : transfer öğrenme
+majority voting: çoğunluk oylaması
+weighted majority voting: ağırlıklı çoğunluk oylaması
+recursive least squares: özyinelemeli en küçük kareler yöntemi
+functional magnetic resonance imaging (FMRI): fonksiyonel manyetik rezonans görüntüleme
+ınstrumental noise: aletsel gürültü
+noise floor: gürültü tabanı
+intrinsic mode functions (IMFs): içsel mod fonksiyonları
+empirical mode decomposition (EMD): görgül kip ayrışımı (GKA)
+multivariate empirical mode decomposition (MEMD):  çok değişkenli görgül kip ayrışımı (ÇDGKA)
+finite ımpulse response  (FIR) = sonlu dürtü cevaplı
+Near Infrared Spectroscopy (NIRS): yakın kızılötesi spektroskopi 
+positron emission tomography (PET): Pozitron emisyon tomografi
+Electroencephalogram (EEG): elektroensefalogram (EEG) 
+Regional cerebral blood ﬂow (rCBF): bölgesel serebral kan akımı
+supplementary motor area (SMA): supplementer motor alan
+primary sensory area: primer duyu alan
+motor cortices: motor korteksler
+sensorimotor area: sensorimotor
+contralateral hemisphere: kontralateral hemisfer
+bilaterally symmetrical: bilateral simetrik
+spatiotemporal: uzam-zamansal
+Cortical: kortikal
+subcortical: subkortikal
+rehearsal: prova
+ventral and dorsal: ventral ve dorsal
+pre-supplementary motor area (pre-SMA): pre-suplementer motor alan (pre-SMA)
