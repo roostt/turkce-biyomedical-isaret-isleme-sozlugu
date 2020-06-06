@@ -151,3 +151,5 @@ ensemble learning = topluluk öğrenme
 voting methods= oylama yöntemleri
 weak classifier=zayıf sınıflandırıcı
 majority voting=oy çokluğu
+soft voting= yumuşak oylama
+uniform weights= uniform ağırlıklar
