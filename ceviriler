@@ -153,3 +153,7 @@ weak classifier=zayıf sınıflandırıcı
 majority voting=oy çokluğu
 soft voting= yumuşak oylama
 uniform weights= uniform ağırlıklar
+multiple classifier= çoklu sınıflandırıcı
+bagging= torbalama
+boosting= hızlandırma
+stacking= istifleme
