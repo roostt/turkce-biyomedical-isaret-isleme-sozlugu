@@ -162,3 +162,4 @@ random forest approach= rastgele orman yaklaşımı
 decision trees= karar ağaçları 
 extreme gradient boosting= ileri seviye gradyan artırma
 extra trees classifier= ekstra ağaç sınıflandırıcısı 
+one versus one (OVO)= bire karşı bir
