@@ -159,3 +159,6 @@ boosting= hızlandırma (AdaBoost, GentleBoost ve LogitBoost gibi yöntemler iç
 stacking= istifleme
 logistic regression= lojistik regresyon
 random forest approach= rastgele orman yaklaşımı
+decision trees= karar ağaçları 
+extreme gradient boosting= ileri seviye gradyan artırma
+extra trees classifier= ekstra ağaç sınıflandırıcısı 
