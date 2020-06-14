@@ -158,3 +158,5 @@ bagging= torbalama (Bagging-DT, Bagging-KNN, Bagging-LDA ve Bagging-SVM gibi yö
 boosting= hızlandırma (AdaBoost, GentleBoost ve LogitBoost gibi yöntemler için)
 stacking= istifleme
 one versus one (OVO)= bire karşı bir
+consumer neuroscience= tüketici sinirbilimi/nörobilimi
+neuromuscular= nöromüsküler 
