@@ -157,15 +157,26 @@ multiple classifier= çoklu sınıflandırıcı
 bagging= torbalama (Bagging-DT, Bagging-KNN, Bagging-LDA ve Bagging-SVM gibi yöntemler için)
 boosting= hızlandırma (AdaBoost, GentleBoost ve LogitBoost gibi yöntemler için)
 stacking= istifleme
-<<<<<<< HEAD
 one versus one (OVO)= bire karşı bir
 consumer neuroscience= tüketici sinirbilimi/nörobilimi
 neuromuscular= nöromüsküler 
-=======
 logistic regression= lojistik regresyon
 random forest approach= rastgele orman yaklaşımı
 decision trees= karar ağaçları 
 extreme gradient boosting= ileri seviye gradyan artırma
 extra trees classifier= ekstra ağaç sınıflandırıcısı 
-one versus one (OVO)= bire karşı bir
->>>>>>> 13849e472826be7df8a017d3220098832b9b4382
+mean= ortalama
+variance= varyans
+kurtosis= basıklık
+skewness= çarpıklık
+entropy= entropi
+Hjorth parameters= Hjorth parametreleri
+zero-crossing rate= sıfırı geçme oranı 
+autoregressive modeling= otoregresif modelleme
+fast Fourier transform= hızlı Fourier dönüşümü
+spectral power density= spektral güç yoğunluğu
+matched filtering= uyumlu süzgeçleme
+auto-regressive components= otoregresif bileşenler
+Hilbert-Huang transform= Hilbert-Huang dönüşümü
+time-frequency distribution= zaman-frekans dağılımları
+
